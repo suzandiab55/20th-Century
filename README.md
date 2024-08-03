@@ -8,7 +8,7 @@ This project leverages a variety of data sources, primarily historical texts, re
 - Political documents
 - Public and media archives
 
-The txt file utilized can be accessed here [here](https://coach-courses-us.s3.amazonaws.com/exercises/1400/62982/391261da03bdc3161e81b83581533aa4/scraped_page.txt).
+The txt file utilized can be accessed [here](https://coach-courses-us.s3.amazonaws.com/exercises/1400/62982/391261da03bdc3161e81b83581533aa4/scraped_page.txt).
 ## Tools 
 For this project, the following technologies and libraries were used:
 - Python for general programming
