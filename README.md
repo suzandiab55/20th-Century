@@ -27,7 +27,6 @@ This project addresses several research questions:
 - Standardized formats across different data sources
 - Filled missing values and handled outliers
 - Extracted and parsed textual data from complex formats
-## Extra Resources 
 ## Code
 The complete source code and Jupyter notebooks used for analysis are stored within the repository and can be explored to replicate the study or explore further.
 
