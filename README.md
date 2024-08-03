@@ -22,6 +22,13 @@ This project addresses several research questions:
 2) How did cultural movements and phenomena interconnect during this period?
 3) What can the linguistic analysis of political documents tell us about global trends?
 4) How can network analysis enhance our understanding of historical data?
+## Data Cleaning Procedures
+- Removed irrelevant or redundant data entries
+- Standardized formats across different data sources
+- Filled missing values and handled outliers
+- Extracted and parsed textual data from complex formats
 ## Extra Resources 
+## Code
+The complete source code and Jupyter notebooks used for analysis are stored within the repository and can be explored to replicate the study or explore further.
 
 
